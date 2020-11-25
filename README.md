@@ -1,20 +1,15 @@
-### I'm a self-thought iOS mobile developer 👋
+### Hi there 👋, My name is Elai!
+#### I'm a self-thought iOS Mobile Developer
 
-- 🔭 I’m working with Swift.
-- 🌱 I’m currently learning Algorithms.
-- ⚡ Fun fact: I'm a photographer and guitar player.
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-## Technologies
-![](https://img.shields.io/badge/OS-MACOS-informational?style=for-the-badge&logo=apple&logoColor=white)
-![](https://img.shields.io/badge/Editor-xCode-informational?style=for-the-badge&logo=xcode&logoColor=white)
-![](https://img.shields.io/badge/Code-Swift-informational?style=for-the-badge&logo=swift&logoColor=white&color=orange)
-![](https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=java&logoColor=white&color=yellow)
-![](https://img.shields.io/badge/Code-JS-informational?style=for-the-badge&logo=javascript&logoColor=white&color=yellow)
+Skills: Swift / JAVA / JS / Kotlin / HTML / CSS
 
-***
+- 🔭 I’m currently working as a self-employed developer 
+- 🌱 I’m currently learning Algorithms 
+- ⚡ Fun fact: I'm a photographer and a guitar player 
 
-You can find me on [![LinkedIn][1.1]][1].
 
-[1.1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/elai950)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/elai-zuberman-8120a073/)  
 
-[1]: https://linkedin.com/in/elai-zuberman-8120a073/
+
