@@ -7,8 +7,9 @@
 ## Technologies
 ![](https://img.shields.io/badge/OS-MACOS-informational?style=for-the-badge&logo=apple&logoColor=white)
 ![](https://img.shields.io/badge/Editor-xCode-informational?style=for-the-badge&logo=xcode&logoColor=white)
-![](https://img.shields.io/badge/Code-Swift-informational?style=for-the-badge&logo=swift&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Firebase-informational?style=for-the-badge&logo=firebase&logoColor=white)
+![](https://img.shields.io/badge/Code-Swift-informational?style=for-the-badge&logo=swift&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=java&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Code-JS-informational?style=for-the-badge&logo=javascript&logoColor=white&color=yellow)
 
 ***
 
