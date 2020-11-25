@@ -1,7 +1,7 @@
 ### I'm a self-thought iOS mobile developer 👋
 
 - 🔭 I’m working with Swift.
-- 🌱 I’m currently learning ML.
+- 🌱 I’m currently learning Algorithms.
 - ⚡ Fun fact: I'm a photographer and guitar player.
 
 ## Technologies
