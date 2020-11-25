@@ -5,11 +5,10 @@
 - ⚡ Fun fact: I'm a photographer and guitar player.
 
 ## Technologies
-
-![](https://img.shields.io/badge/OS-MACOS-informational?style=plastic&logo=apple&logoColor=white)
-![](https://img.shields.io/badge/Editor-xCode-informational?style=plastic&logo=xcode&logoColor=white)
-![](https://img.shields.io/badge/Code-Swift-informational?style=plastic&logo=swift&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Firebase-informational?style=plastic&logo=firebase&logoColor=white)
+![](https://img.shields.io/badge/OS-MACOS-informational?style=for-the-badge&logo=apple&logoColor=white)
+![](https://img.shields.io/badge/Editor-xCode-informational?style=for-the-badge&logo=xcode&logoColor=white)
+![](https://img.shields.io/badge/Code-Swift-informational?style=for-the-badge&logo=swift&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Firebase-informational?style=for-the-badge&logo=firebase&logoColor=white)
 
 ***
 
