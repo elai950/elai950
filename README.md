@@ -1,8 +1,6 @@
 ### Hi there 👋, My name is Elai!
 #### I'm a self-thought iOS Mobile Developer
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-
 Skills: Swift / JAVA / JS / Kotlin / HTML / CSS
 
 - 🔭 I’m currently working as a self-employed developer 
