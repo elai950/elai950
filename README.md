@@ -3,7 +3,7 @@
 
 Skills: Swift / JAVA / JS / Kotlin / HTML / CSS
 
-- 🔭 I’m currently working as a self-employed developer 
+- 🔭 I’m currently working as a iOS Mobile Developer in a Startup company
 - 🌱 I’m currently learning Algorithms 
 - ⚡ Fun fact: I'm a photographer and a guitar player 
 
