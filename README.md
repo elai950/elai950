@@ -1,7 +1,7 @@
 ### Hi there 👋, My name is Elai!
 #### I'm a self-thought iOS Mobile Developer
 
-Technology Stack: Swift / JAVA / JS / Kotlin / React / HTML / CSS
+Technology Stack: Swift / JS / NodeJS / React / HTML / CSS
 
 - 🔭 I’m currently working as a iOS Mobile Developer in a Startup company
 - 🌱 I’m currently learning Algorithms 
