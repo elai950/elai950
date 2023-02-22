@@ -10,8 +10,3 @@ Technology Stack: Swift / JAVA / JS / React / HTML / CSS / C++
 
 #### Lastest Blog Posts:
 - [How to present toast in SwiftUI](https://medium.com/swlh/presenting-apples-music-alerts-in-swiftui-7f5c32cebed6)
-
-#### Stats:
-![Elai's GitHub stats](https://github-readme-stats.vercel.app/api?username=elai950&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elai950&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
