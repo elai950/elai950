@@ -3,7 +3,7 @@
 
 Technology Stack: Swift / JAVA / JS / React / HTML / CSS / C++
 
-- 🔭 Currently working as an iOS Mobile Developer in the biggest mobility company in my country.
+- 🔭 Currently working as an iOS Developer.
 - ⚡ Hobby: Unreal Engine Game Development.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/elai950)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/elai-zuberman-8120a073/)  
